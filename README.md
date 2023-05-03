@@ -15,10 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👀 I’m interested in a software engineering position with opportunities for growth.
-🌱 The Technologies I've learned and used so far are: 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
+- 👀 I’m interested in a software engineering position with opportunities for growth.
+- 🌱 The Technologies I've learned and used so far are: 
+  - <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="50" height="50"/>&nbsp;
@@ -29,5 +28,4 @@ Here are some ideas to get you started:
   <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg" title="PostgreSQL" alt="PostgreSQL" width="50" height="50"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" title="SQLite" alt="SQLite" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" width="50" height="50"/>&nbsp;
-</div>
-📫 Connect with me on: <a href="https://www.linkedin.com/in/luotengzhong" target="blank">LinkedIn</a>
+- 📫 Connect with me on: <a href="https://www.linkedin.com/in/luotengzhong" target="blank">LinkedIn</a>
