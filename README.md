@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👀 I’m interested in a software engineering position with opportunities for growth.
-- 🌱 The Technologies I've learned and used so far are: 
+👀 I’m interested in a software engineering position with opportunities for growth.
+🌱 The Technologies I've learned and used so far are: 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
@@ -30,7 +30,4 @@ Here are some ideas to get you started:
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" title="SQLite" alt="SQLite" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" width="50" height="50"/>&nbsp;
 </div>
-- 📫 Connect with me on:
-<div>
-  <a href="https://www.linkedin.com/in/luotengzhong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aylabasha" height="50" width="50" /></a>
-</div>
+📫 Connect with me on: <a href="https://www.linkedin.com/in/luotengzhong" target="blank">LinkedIn</a>
