@@ -29,3 +29,5 @@ Here are some ideas to get you started:
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" title="SQLite" alt="SQLite" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" width="50" height="50"/>&nbsp;
 - 📫 Connect with me on: <a href="https://www.linkedin.com/in/luotengzhong" target="blank">LinkedIn</a>
+- ![Tenginro's GitHub stats](https://github-readme-stats.vercel.app/api?username=tenginro&hide=contribs,issues&rank_icon=github)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tenginro&layout=compact)
