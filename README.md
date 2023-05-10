@@ -1,5 +1,5 @@
-### Hi there 👋 My name is Tengzhong Luo
-I'm a Software Engineer with a background in Accounting building full-stack websites in JavaScript, Python, React, Redux, SQL, HTML and CSS.
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there+%F0%9F%91%8B+My+name+is+Tengzhong+Luo.)](https://git.io/typing-svg)
+- I'm a Software Engineer with a background in Accounting building full-stack websites in JavaScript, Python, React, Redux, SQL, Flask, Express.js, Node.js, AWS, Google Maps API, HTML and CSS.
 <!--
 **tenginro/tenginro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
