@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 👀 I’m interested in a software engineering position with opportunities for growth.
+
 - 🌱 The Technologies I've learned and used so far are: 
   - <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
@@ -24,8 +25,11 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="50" height="50"/>&nbsp;
   - <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node" alt="Node" width="50" height="50"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express" alt="Express" width="50" height="50" style="filter:invert(1);"/>&nbsp; <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg" title="PostgreSQL" alt="PostgreSQL" width="50" height="50"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="50" height="50"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" width="50" height="50"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;
+  
 - ![Tenginro's GitHub stats](https://github-readme-stats.vercel.app/api?username=tenginro&hide=contribs,issues&rank_icon=github)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tenginro&layout=compact)
+
 - 📫 Connect with me on: <a href="https://www.linkedin.com/in/luotengzhong" target="blank">LinkedIn</a>
+
 - Page Visitors: 
 ![Visitor Count](https://profile-counter.glitch.me/tenginro/count.svg)
