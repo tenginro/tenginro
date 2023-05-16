@@ -27,3 +27,5 @@ Here are some ideas to get you started:
 - ![Tenginro's GitHub stats](https://github-readme-stats.vercel.app/api?username=tenginro&hide=contribs,issues&rank_icon=github)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tenginro&layout=compact)
 - 📫 Connect with me on: <a href="https://www.linkedin.com/in/luotengzhong" target="blank">LinkedIn</a>
+- Page Visitors: 
+![Visitor Count](https://profile-counter.glitch.me/tenginro/count.svg)
