@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 👀 I’m interested in a software engineering position with opportunities for growth.
-
+ 
 - 🌱 The Technologies I've learned and used so far are: 
   - <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
