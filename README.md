@@ -27,7 +27,17 @@ Here are some ideas to get you started:
   - <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node" alt="Node" width="50" height="50"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express" alt="Express" width="50" height="50" style="filter:invert(1);"/>&nbsp; <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg" title="PostgreSQL" alt="PostgreSQL" width="50" height="50"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="50" height="50"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" width="50" height="50"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50"/>&nbsp;
   
 
-- [![Tenginro's GitHub stats](https://github-readme-stats.vercel.app/api?username=tenginro)](https://github.com/tenginro/github-readme-stats)
+- <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=tenginro&show_icons=true&theme=dark&rank_icon=github"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=tenginro&show_icons=true&rank_icon=github"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=tenginro&show_icons=true&rank_icon=github" />
+</picture>
 - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tenginro&layout=donut)](https://github.com/tenginro/github-readme-stats)
 
 - 📫 Connect with me on: <a href="https://www.linkedin.com/in/luotengzhong" target="blank">LinkedIn</a>
